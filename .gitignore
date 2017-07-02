@@ -54,7 +54,7 @@ Minos/fmod.log
 Minos/fmod_editor.log
 .DS_Store
 
-Assets/DlibFaceLandmarkDetector
-Assets/OpenCVForUnity
-Assets/StreamingAssets
-Assets/DlibFaceLandmarkDetectorWithOpenCVExample
+Assets/DlibFaceLandmarkDetector*
+Assets/OpenCVForUnity*
+Assets/StreamingAssetsa*
+Assets/DlibFaceLandmarkDetectorWithOpenCVExample*
